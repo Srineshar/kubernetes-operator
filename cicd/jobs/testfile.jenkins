@@ -1,7 +1,7 @@
 #!/usr/bin/env groovy
 
 pipelineJob('test-jenkins-operator') {
-    displayName('Test Job')
+    displayName('Test Job 2')
 
     logRotator {
         numToKeep(10)
